@@ -1,9 +1,11 @@
 # Car-Mania
 
 ## Other contributors:
-- Mainul Islam
+- Abdullah Al Mamun https://github.com/Mamun1113
 - Abdur Rahim Mia https://github.com/Rahim-aust
-- Md. Abdullah Al Sajid Chowdhury https://github.com/SajidAbdullah729
+- Mainul Islam
+
+
 
 This is a software development group project, developed by using iGraphics.
 
