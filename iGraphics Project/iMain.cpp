@@ -31,6 +31,7 @@ int nos = 1;
 int difficultyLevel = 0;
 int counter = 0;
 char keyAssign;
+int value = 0;
 
 //level
 int currentLevel = 1;
