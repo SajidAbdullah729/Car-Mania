@@ -20,6 +20,8 @@
 using namespace std;
 
 //high score file	
+
+int solve=0;
 FILE *fp;
 //char name[20] = {}, point[10] = {};
 
