@@ -32,6 +32,7 @@ int difficultyLevel = 0;
 int counter = 0;
 char keyAssign;
 int valuerek = 0;
+int valueg=0;
 
 //level
 int currentLevel = 1;
