@@ -20,7 +20,7 @@
 using namespace std;
 
 //high score file	
-
+//high score save in file work
 int solve=0;
 FILE *fp;
 //char name[20] = {}, point[10] = {};
