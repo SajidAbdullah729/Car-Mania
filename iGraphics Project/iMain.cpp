@@ -37,6 +37,7 @@ int valueg=0;
 //level
 int currentLevel = 1;
 char currentLevelText[10];
+int prevLevel = 1;
 void level()
 {
 	sprintf_s( currentLevelText, 10, "%d", currentLevel );
