@@ -11,7 +11,6 @@ This is a software development group project, developed by using iGraphics.
 
 This is a car racing game which will give you old day's exciting feeling of car running and collecting coins with multi-level difficulty.
 
-To know more about featutres and get a gameplay visit the following link: https://youtu.be/o1QV_ZY6LzA
 ![image](https://user-images.githubusercontent.com/66373332/236643243-fc739467-f55a-4421-9566-0d9a1462d9a6.png)
 ![image](https://user-images.githubusercontent.com/66373332/236643251-abb493fc-7ba8-49e8-8bf1-58dad1c05fbc.png)
 ![image](https://user-images.githubusercontent.com/66373332/236643255-55338822-ce44-4ec5-b27d-9827f2fab6b8.png)
