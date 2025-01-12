@@ -5,6 +5,8 @@
 - Abdur Rahim Mia https://github.com/Rahim-aust
 - Mainul Islam
 
+## Tools and Technology:
+- C/C++, iGraphics 
 
 
 This is a software development group project, developed by using iGraphics.
