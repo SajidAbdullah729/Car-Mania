@@ -5,10 +5,10 @@
 - Abdur Rahim Mia https://github.com/Rahim-aust
 - Mainul Islam
 
-## Tools and Technology:
+## 📌 Tools and Technology:
 - C/C++, iGraphics 
 
-## Description
+## 📌 Description
 This is a software development group project, developed by using iGraphics.
 
 This is a car racing game which will give you old day's exciting feeling of car running and collecting coins with multi-level difficulty.
